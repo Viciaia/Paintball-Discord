@@ -15,6 +15,12 @@ you put these bullet : 🔴🟠🟡🟢🔵🟣⚫⚪🟤 (:[COLOR_NAME]_circle:
 
 and the color of the name will be change 
 
+With nitro it looks like this
+
+<img width="662" height="498" alt="image" src="https://github.com/user-attachments/assets/00a69f04-cb66-446a-9763-235717c5d164" />
+
+
+
 #Code anatomy
 
 some config in config.json, 2 slash commands,  and Events catcher on index.js
