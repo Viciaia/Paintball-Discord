@@ -16,6 +16,7 @@ you put these bullet : 🔴🟠🟡🟢🔵🟣⚫⚪🟤 (:[COLOR_NAME]_circle:
 and the color of the name will be change 
 
 #Code anatomy
+
 some config in config.json, 2 slash commands,  and Events catcher on index.js
 
 🟣 config.json
