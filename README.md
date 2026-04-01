@@ -26,7 +26,7 @@ add paintballChannelId to let the bot listen paintball command in only one messa
 
 
 🟢 2 Slash commands
-you mau just copy these file and use as it is, i already add comment to explain how it work
+you may just copy these file and use as it is, I already add comment to explain how it work
 located in commands/utility folder
 
 <img width="295" height="99" alt="image" src="https://github.com/user-attachments/assets/e12d5286-dc06-4f84-b360-d2c913464960" />
@@ -37,13 +37,14 @@ the /paintball_role_setup is for creating 81 roles for paintball gradient color
 <img width="543" height="138" alt="image" src="https://github.com/user-attachments/assets/8edade57-a0f1-4be8-b93e-974506584412" />
 
 
-the /paintball_role_remove is for clean up these roles after the paintball event finished it will revoce all role started with paintball-
+the /paintball_role_remove is for clean up these roles after the paintball event finished it will remove all role started with paintball-
 
+Note : the bot role better stay over other-color roles in the role list
 
 
 🟡 Event catcher in index.js 
 
-add the config before the paintball Event function
+add the config. This will tell the bot to listen command from only one text channel
 
 <img width="605" height="69" alt="image" src="https://github.com/user-attachments/assets/75c696ca-d7b6-4ae9-892c-69d7937f400b" />
 
